@@ -1,6 +1,0 @@
-TEST BACK END
-
-From_local_to_Git
-
-GIT EDIT
-
