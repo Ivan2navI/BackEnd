@@ -1,6 +1,6 @@
 TEST BACK END
-<<<<<<< HEAD
+
 From_local_to_Git
 
 GIT EDIT
->>>>>>> b724ae2860c50f512bd0a220d298fe93255ce106
+
